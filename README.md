@@ -9,4 +9,4 @@ It was created for academic purposes.
 
 Everybody can use it.
 
-It was created by rgottberg.
+It was created by Ruben GOTTBERG (https://github.com/rgottberg).
