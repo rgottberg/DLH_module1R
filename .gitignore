@@ -1,3 +1,19 @@
+#additions
+
+# necesary to avoid errors
+*.Rproj 
+
+/renv
+.Renviron
+*.db
+*.html
+
+.Rproj.user
+.Rhistory
+.Rdata
+.Ruserdata
+
+
 # History files
 .Rhistory
 .Rapp.history
